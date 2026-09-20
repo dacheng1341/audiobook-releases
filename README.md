@@ -20,14 +20,14 @@
 
 ## 全平台客户端下载矩阵
 
-| 平台 | 格式 | 说明 | 下载与访问入口 |
+| 平台 | 格式 | 说明 | 直接下载入口 |
 | :--- | :--- | :--- | :--- |
-| **🪟 Windows 客户端** | `Setup .exe` / `Portable .zip` | 适配 Win 10 / 11 64位，支持本地文件关联、多窗口并排 | [立即下载 Windows 版](https://github.com/dacheng1341/audiobook-releases/releases/latest) |
-| **🍏 macOS 客户端** | `.dmg` | 完美适配 Apple Silicon (M1~M4) 原生架构与 Intel 64位 | [立即下载 macOS 版](https://github.com/dacheng1341/audiobook-releases/releases/latest) |
-| **🐧 Linux 客户端** | `.AppImage` / `.deb` | 兼容 Ubuntu、Debian、Fedora、Deepin 及统信 UOS | [立即下载 Linux 版](https://github.com/dacheng1341/audiobook-releases/releases/latest) |
-| **🤖 Android 安卓版** | `.apk` | 官方标准安装包，支持息屏后台听书与锁屏控制 | [立即下载 Android APK](https://github.com/dacheng1341/audiobook-releases/releases/latest) |
-| **📱 iOS / iPadOS 移动端** | Xcode工程 / PWA | 专为 iPad 优化，完美支持 Apple Pencil 压感手绘与分屏 | [获取 iOS 工程包 / PWA](https://bookapp.dacbbox.com) |
-| **🌐 Web 网页在线版** | 网页版 | 免安装即开即用，全功能极速云端沉浸体验 | [访问在线阅读器 (book.dacbbox.com)](https://book.dacbbox.com) |
+| **🪟 Windows 客户端** | `Setup .exe`<br>`Portable .zip` | 适配 Win 10 / 11 64位，支持本地文件关联直接双击打开图书 | [📦 安装包 (.exe)](https://github.com/dacheng1341/audiobook-releases/releases/latest/download/dacbbox-immersereader-windows-2.0.0-x64.exe) · [🗜️ 绿色便携版 (.zip)](https://github.com/dacheng1341/audiobook-releases/releases/latest/download/dacbbox-immersereader-windows-2.0.0-x64.zip) |
+| **🍏 macOS 客户端** | `.dmg` | 完美适配 Apple Silicon (M1~M4) 原生架构与 Intel 64位 | [🍎 下载 macOS 安装镜像 (.dmg)](https://github.com/dacheng1341/audiobook-releases/releases/latest/download/dacbbox-immersereader-mac-2.0.0-arm64.dmg) |
+| **🐧 Linux 客户端** | `.AppImage`<br>`.deb` | 兼容 Ubuntu、Debian、Fedora、Deepin 及统信 UOS 国产系统 | [🐧 免安装版 (.AppImage)](https://github.com/dacheng1341/audiobook-releases/releases/latest/download/dacbbox-immersereader-linux-2.0.0-x86_64.AppImage) · [📦 DEB包 (.deb)](https://github.com/dacheng1341/audiobook-releases/releases/latest/download/dacbbox-immersereader-linux-2.0.0-amd64.deb) |
+| **🤖 Android 安卓版** | `.apk` | 官方标准安装包，支持息屏后台听书、锁屏播控通知中心 | [🤖 下载 Android 官方 APK](https://github.com/dacheng1341/audiobook-releases/releases/latest/download/dacbbox-immersereader-android-v2.0.2.apk) |
+| **📱 iOS / iPadOS 移动端** | Xcode工程<br>PWA | 专为 iPad 优化，完美支持 Apple Pencil 压感手写与分屏 | [📱 获取 iOS 源码工程包 (.zip)](https://github.com/dacheng1341/audiobook-releases/releases/latest/download/dacbbox-immersereader-ios-v2.0.2.zip) · [🌐 访问 PWA](https://bookapp.dacbbox.com) |
+| **🌐 Web 网页在线版** | 网页版<br>离线静态包 | 免安装即开即用，全功能极速云端沉浸体验 | [📖 访问在线阅读器 (book.dacbbox.com)](https://book.dacbbox.com) · [🗜️ 静态包 (.zip)](https://github.com/dacheng1341/audiobook-releases/releases/latest/download/dacbbox-immersereader-web-v2.0.2.zip) |
 
 ---
 
